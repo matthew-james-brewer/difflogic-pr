@@ -1,3 +1,7 @@
 **/.*
 result
 gate
+compact/log.txt
+compact/gate-compact
+compact/cnw.c
+compact/gate-compact.c
